@@ -1,0 +1,5 @@
+2025-01-11 06:01:47.424680 : Data extraction complete. Initiating Transformation process
+2025-01-11 06:01:47.441426 : Data transformation complete. Initiating Loading process
+2025-01-11 06:01:47.456084 : Data saved to CSV file
+2025-01-11 06:01:47.477898 : Data loaded to Database as a table, Executing queries
+2025-01-11 06:01:47.478893 : Process Complete
